@@ -7,7 +7,7 @@
 | ls | list directory |
 | rmdir | remove directory |
 | pushd | push directory |
-| popd pop | directory |
+| popd | pop directory |
 | cp | copy a file or directory |
 | mv | move a file or directory |
 | less | page through a file |
